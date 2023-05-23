@@ -6,7 +6,7 @@
   "lang": "ko",
   "theme_color": "#7c708f",
   "background_color": "#6b6c7a",
-  "start_url": "./example/",
+  "start_url": "gurum77.github.io/example/",
   "orientation": "portrait",
   "icons": [
     {
@@ -683,6 +683,6 @@
     }
   ],
   "screenshots": [],
-  "scope": "./example/"
+  "scope": "gurum77.github.io/example/"
 
 }
