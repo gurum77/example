@@ -682,5 +682,7 @@
       "purpose": "any"
     }
   ],
-  "screenshots": []
+  "screenshots": [],
+  "scope": "https://gurum77.github.io/example/"
+
 }
